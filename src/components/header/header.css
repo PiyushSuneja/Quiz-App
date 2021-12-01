@@ -1,0 +1,16 @@
+.title{
+    text-transform: uppercase;
+    font-size: 8vw;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.divider{
+    margin: 10px;
+    width: 100%;
+    
+}
